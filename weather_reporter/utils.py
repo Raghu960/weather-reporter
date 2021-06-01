@@ -48,4 +48,4 @@ def print_weather_details(data):
         print("Weather Type:", row['weather_state_name'])
         print("Min Temp.:", row['min_temp'])
         print("Max Temp.:", row['max_temp'])
-        print()
+        print("This is the weather of") 
